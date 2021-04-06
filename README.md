@@ -1,6 +1,6 @@
 # Neurobiological-Successor-Features
 
-Sample code to accompany to "Neurobiological Successor Features for Spatial Navigation" [1]
+Sample code to accompany to "Neurobiological Successor Features for Spatial Navigation" [1], originally written in MATLAB 2018b
 
 The model uses temporal-difference learning to approximate the successor features [2] of a set of boundary vector cells [3,4] from a simulated rodent trajectory [5]
 
